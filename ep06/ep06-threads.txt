@@ -1,9 +1,9 @@
 Video ni tak dilukis. Ditulis.
 
-Setiap watak, peta 118 sekolah, bos mangga TERKUNCI, sampai muzik chiptune, semuanya kod yang Claude Code tulis. Lepas tu baru dirender jadi video.
+Setiap watak, peta 118 sekolah, bos mangga TERKUNCI, sampai muzik chiptune, semuanya kod yang Claude Code tulis. Lepas tu dirender jadi video.
 
-Sebelum render penuh, Claude ambil bingkai contoh dan semak sendiri. Kali ni dia jumpa 4 tempat teks bertindih, betulkan dulu, baru render.
+Sebelum render penuh, Claude semak bingkai contoh sendiri. Kali ni dia jumpa 4 teks bertindih dan betulkan dulu.
 
-Kisahnya pula projek sebenar: tab penyelia untuk reset kata laluan 118 sekolah.
+Kisahnya projek sebenar: tab penyelia untuk reset kata laluan 118 sekolah.
 
 Kalau cikgu boleh tulis satu video dengan arahan sahaja, video apa yang cikgu nak buat dulu?
