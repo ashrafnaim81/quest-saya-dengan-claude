@@ -1,9 +1,9 @@
 Ujian UI app saya tersangkut. Puncanya? Dua elemen guna pengecam yang sama.
 
-Claude Code jejak sampai ke FinishCard.swift baris 116. Pembetulannya satu baris sahaja: .accessibilityElement(children: .contain). Lepas tu, 11 daripada 11 ujian UI lulus.
+Claude Code jejak sampai ke FinishCard.swift baris 116. Pembetulannya satu baris sahaja: .accessibilityElement(children: .contain). Hasilnya, 11/11 ujian UI lulus.
 
-Kisah tu saya jadikan EP7: bos dua kad kembar yang kena dipisahkan.
+Kisah ni jadi EP7: bos dua kad kembar.
 
-Pelajaran saya: bug yang nampak besar kadang-kadang selesai dengan satu baris yang betul.
+Pelajaran saya: bug yang nampak besar kadang selesai dengan satu baris yang betul.
 
 Cikgu pernah jumpa masalah yang rupanya selesai dengan satu perubahan kecil?
