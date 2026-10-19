@@ -1,0 +1,7 @@
+Episod ni saya tak upload sendiri ke YouTube.
+
+Claude Code hantar fail video ke repo GitHub, kemudian jadualkan YouTube melalui Metricool. Dua-dua guna connector MCP, terus dari sesi awan.
+
+Kisah EP8 pula tentang menunggu: Rowbell 1.0 dah dihantar ke Apple, dan bos paling susah ialah tunggu semakan.
+
+Cikgu, kerja mana yang cikgu paling nak serahkan pada AI dulu: buat kandungan, atau urus jadual pos?
