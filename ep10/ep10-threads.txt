@@ -1,0 +1,7 @@
+Setiap kali episod siap, Claude tulis satu pelajaran baharu dalam fail skill siri ni.
+
+Contohnya: YouTube tolak deskripsi yang ada aksara kurungan sudut. Metricool perlukan tajuk untuk pos TikTok. Sari kata Short muat 14 aksara sebaris.
+
+Selepas sepuluh episod, fail tu dah jadi buku panduan. Episod seterusnya tak ulang silap yang sama.
+
+Cikgu, kalau Claude boleh ingat satu pelajaran tentang kerja cikgu, pelajaran apa yang cikgu nak dia ingat?
